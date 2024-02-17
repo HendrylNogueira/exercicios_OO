@@ -8,6 +8,7 @@ namespace exercicio03
         {
             Produto p = new Produto();
 
+
             Console.WriteLine("Entre os dados do produto: ");
             Console.Write("Nome: ");
             p.Nome = Console.ReadLine();
