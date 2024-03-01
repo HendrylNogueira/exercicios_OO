@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Aluno aluno_x = new Aluno();
+            Aluno aluno_x = new();
 
             Console.Write("Nome do aluno: ");
             aluno_x.Nome = Console.ReadLine();
