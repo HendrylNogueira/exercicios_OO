@@ -12,7 +12,7 @@
 
 
             Console.WriteLine($"Valor IOF = {ConversorDeMoeda.IOF():F2}");
-            Console.WriteLine($"Valor TOTAL = {ConversorDeMoeda.Total():F2}");
+            Console.WriteLine($"Valor total a ser pago em reais = {ConversorDeMoeda.Total():F2}");
 
         }
     }
